@@ -1,5 +1,8 @@
 # RCB IPL 2017 Data Analysis & Strategy Project
 
+## 📸 Dashboard Preview
+<img src="rcb.png" width="700"/>
+
 ## Overview
 This project analyzes Royal Challengers Bangalore (RCB) performance using IPL 2017 dataset. The goal is to understand player performance, match conditions, and key factors affecting wins and losses.
 
